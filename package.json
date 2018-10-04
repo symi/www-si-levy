@@ -9,5 +9,8 @@
     "del-cli": "^1.1.0",
     "firebase": "^5.5.2",
     "vuepress": "^0.14.4"
+  },
+  "dependencies": {
+    "date-fns": "^1.29.0"
   }
 }
