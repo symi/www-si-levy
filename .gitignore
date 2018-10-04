@@ -1,0 +1,4 @@
+.vuepress/dist
+.firebase
+yarn-error.log
+node_modules
